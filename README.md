@@ -1,5 +1,7 @@
 # KickCity Test
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/barbagrigia/kickcity.svg)](https://greenkeeper.io/)
+
 ## Install
 
 `yarn install` installs dependencies.
