@@ -1,0 +1,11 @@
+html {
+  font-family: "Open Sans", "Helvetica", sans-serif;
+  font-size: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  text-rendering: optimizeLegibility !important;
+  -webkit-font-smoothing: antialiased;
+}
